@@ -49,3 +49,6 @@ Static marketing site. No build step, no framework, no dependencies: Vercel serv
 ## Editing later
 
 Everything is plain HTML and CSS. Text lives in `index.html`; colours, spacing and fonts in `styles.css`. Change a file, push to GitHub (Option B), and the site updates itself.
+
+
+Deployed from this repository to Vercel.
